@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=
+comment1.target=Robot()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ alternarImagen()
+comment5.params=dx\ dy
+comment5.target=boolean\ hayPared(int,\ int)
+comment6.params=
+comment6.target=void\ recogerGemas()
+comment7.params=
+comment7.target=void\ verificarColision()
+numComments=8

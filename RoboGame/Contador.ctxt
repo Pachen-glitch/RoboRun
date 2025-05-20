@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Contador
+comment1.params=
+comment1.target=Contador()
+comment2.params=valor
+comment2.target=void\ agregarPuntos(int)
+comment3.params=
+comment3.target=void\ quitarMitadPuntos()
+comment4.params=
+comment4.target=int\ getPuntos()
+comment5.params=
+comment5.target=void\ actualizarImagen()
+numComments=6

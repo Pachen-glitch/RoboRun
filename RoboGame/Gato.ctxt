@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Gato
+comment1.params=
+comment1.target=Gato()
+comment2.params=dx\ dy
+comment2.target=boolean\ hayPared(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=
+comment5.target=void\ verificarBordes()
+comment6.params=
+comment6.target=void\ verificarColision()
+numComments=7
