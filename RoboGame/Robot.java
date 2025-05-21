@@ -25,11 +25,14 @@ public class Robot extends Actor {
 
         if (Greenfoot.isKeyDown("right")) {
             dx = 2;
-        } else if (Greenfoot.isKeyDown("left")) {
+        } 
+        if (Greenfoot.isKeyDown("left")) {
             dx = -2;
-        } else if (Greenfoot.isKeyDown("up")) {
+        }  
+        if (Greenfoot.isKeyDown("up")) {
             dy = -2;
-        } else if (Greenfoot.isKeyDown("down")) {
+        } 
+        if (Greenfoot.isKeyDown("down")) {
             dy = 2;
         }
 
